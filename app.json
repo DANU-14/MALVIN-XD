@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "MALVIN-XD~U9hFxCJR#_X40EBtl5B2RpnEWPSVgMizYqtOFiec7cRtgWalB0hghere.",
       "required": true,
       "value": ""
     },  
@@ -53,8 +53,8 @@
   
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
 
     "AUTO_REPLY": {
@@ -78,32 +78,32 @@
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 Seen by Nexus Tech🚀🔥*"
+      "value": "*bluwa laccana lmyoh💨🥵*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Malvin King"
+      "value": "ᴏʟᴅ_ᴋɪɴɢ_ᴅᴀɴᴜ_ʙʙʜ"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "required": false,
-      "value": "263714757857"
+      "required": true,
+      "value": "+94750259166"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ᴍᴀʟᴠɪɴ xᴅ✦"
+      "value": "✦ᴏʟᴅ_ᴋɪɴɢ_ᴅᴀɴᴜ✦"
 
       }, 
 
@@ -123,7 +123,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BY ✦NEXUS TECH✦*"
+      "value": "*© POWERED BY ✦sᴇᴍssʏ ᴅʜᴀɴᴜ✦*"
     },
 
       "DELETE_LINKS": {
